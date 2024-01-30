@@ -1,3 +1,4 @@
 .env
 env/
 ig_settings.json
+data/
